@@ -1,0 +1,16 @@
+{
+   "description": "A highly customized dark theme for Devtools.",
+   "homepage_url": "C:/Users/RAWR/Desktop/tswift/1.6_0/background.html",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "64": "icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhD/QDgQk8NQHaU02w561H/BRIT/hS57intmGed7YcXYtnG36VL9QmAP5ji3Pi/BLY1wDIhgESlFKOQu4cmCne3UlBCf+ZdGo+eEq2J3NDWIoIOEfuAlAJbVw3hV3tDZbk/ggpkeBpHO6yd8E0YrAQrXYSbA7Agdh5VtYR4R+OpIqnlRz2a/jvX5PN5qGw34vnm+fEzvtsFysCpb3BielDnw5ziqwCHAdKAAHH1UO0sdxnwdojAcstRq7JbYiUQCsMU3/fhQprKIGWXItFpw/BeE5TptKmMaBdzT/EY5iEJqzsIDDOBG8CWF5L8WO6y8w7uhpdrZsWukITHGRLjImpQIDAQAB",
+   "manifest_version": 2,
+   "name": "Taylor Swiftifier",
+   "permissions": [ "https://secure.flickr.com/", "http://kevchen.com/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6"
+}

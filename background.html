@@ -1,0 +1,66 @@
+<html>
+<title>Taylor Swiftifier</title>
+<meta name="description" content="Great tab showing a new Taylor Swift picture every reload">
+
+<script src="background.js"></script>
+<script src="features.js"></script>
+</head>
+
+<style>
+
+body{
+	margin: 0;
+}
+
+#content{
+	text-align: left;
+	color: white;
+	font-size: 15em; 
+	position:relative;
+	margin-left: 20px;
+	z-index:15;
+	opacity: 0.8;
+	float: left;
+}
+
+#lyric_container{
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
+
+#lyric{
+	font-size: 3em; 
+	color: white;
+	text-align: center;
+	opacity: 0.8;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#contact{
+  position: fixed;
+  bottom: 1em;
+  left: 1em;
+  background-color: black;
+  color: white;
+  opacity: 0.6;
+  padding: 3 3;
+}
+
+</style>
+
+<body>
+
+	<div id = "content"></div>
+	<div id="lyric_container">
+		<div id="video"></div>
+	</div>
+
+	<div id="contact">
+		Any questions, comments or suggestions? Send them over to kevin521@gmail.com
+	</div>
+
+</body>
+</html>
